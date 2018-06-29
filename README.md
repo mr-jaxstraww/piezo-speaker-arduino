@@ -1,5 +1,5 @@
 # piezo-speaker-arduino
-library for simple generation of sounds of different freq . Last Update : 29.06.2018
+library for simple generation of sounds of different freq . Lst Upd : 29.06.2018
 -----------------
 
 Base func = pisk(int pin,int count,int timer,int timer_pwm) ||                   Second func = piskSOS(int pin)
